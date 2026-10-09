@@ -1,0 +1,13 @@
+# Compiled files
+__pycache__/
+*.pyc
+
+# Environment and IDE
+.env
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/
+FileOrganizer.zip
